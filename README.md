@@ -1,12 +1,12 @@
 # 📱 My Profile App — MVVM Premium Edition
 
 <p align="center">
-  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/ba739d17-abd9-4ec9-82f7-8c4d52ca8479" text=Light+Mode+View" />
+  <img width="180" height="1600" alt="Image" src="https://github.com/user-attachments/assets/ba739d17-abd9-4ec9-82f7-8c4d52ca8479" text=Light+Mode+View" />
   &nbsp;&nbsp;
-  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/94cc1b60-3b31-45c1-b818-f52e728a9202" text=Dark+Mode+View" />
+  <img width="180" height="1600" alt="Image" src="https://github.com/user-attachments/assets/94cc1b60-3b31-45c1-b818-f52e728a9202" text=Dark+Mode+View" />
   &nbsp;&nbsp;
-  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/717361cb-429d-423c-85e1-13410b823116" text=Edit+Form+View+light" />
-  <img width="200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/096bd5bc-31ab-4de0-b85e-a42be4481b66" text=Edit+Form+View+dark" />
+  <img width="180" height="1600" alt="Image" src="https://github.com/user-attachments/assets/717361cb-429d-423c-85e1-13410b823116" text=Edit+Form+View+light" />
+  <img width="180" height="1600" alt="Image" src="https://github.com/user-attachments/assets/096bd5bc-31ab-4de0-b85e-a42be4481b66" text=Edit+Form+View+dark" />
 </p>
 
 <p align="center">
